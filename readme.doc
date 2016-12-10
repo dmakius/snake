@@ -1,0 +1,7 @@
+The classic snake game that everyone was addicited to on their phones in the late 90s'. 
+
+Utilizes the HTML 5 canvas api.
+
+All of the javascript was put in a <script> tag in the HTML so there is no need to use a local server. 
+
+Simply load the webpage and enjoy :-)
